@@ -1,1 +1,2 @@
 # EmailApp
+Email Administration Application
